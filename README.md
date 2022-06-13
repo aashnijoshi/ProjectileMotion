@@ -1,2 +1,4 @@
-# ProjectileMotion
+# Plotting Projectile Motion
 Projectile motion is a form of motion experienced by an object or particle (a projectile) that is projected near Earth's surface and moves along a curved path under the action of gravity only (in particular, the effects of air resistance are passive and assumed to be negligible). This curved path was shown by Galileo to be a parabola, but may also be a straight line in the special case when it is thrown directly upwards.The only force of mathematical significance that is actively exerted on the object is gravity, which acts downward, thus imparting to the object a downward acceleration towards the Earth’s center of mass. Because of the object's inertia, no external force is needed to maintain the horizontal velocity component of the object's motion.
+
+This program inputs the initial velocity and angle of horizontal from the user and then plots the path the projectile follows.
